@@ -1,8 +1,11 @@
 # OmniAuth Connexio
+[![Code Climate](https://codeclimate.com/github/connexio-labs/omniauth-connexio.png)](https://codeclimate.com/github/connexio-labs/omniauth-connexio)
+[![Build Status](https://travis-ci.org/connexio-labs/omniauth-connexio.png?branch=master)](https://travis-ci.org/connexio-labs/omniauth-connexio)
+[![Coverage Status](https://coveralls.io/repos/connexio-labs/omniauth-connexio/badge.png)](https://coveralls.io/r/connexio-labs/omniauth-connexio)
+[![Dependency Status](https://gemnasium.com/connexio-labs/omniauth-connexio.png)](https://gemnasium.com/connexio-labs/omniauth-connexio)
+[![Gem Version](https://badge.fury.io/rb/omniauth-connexio.png)](http://badge.fury.io/rb/omniauth-connexio)
 
 This is an OmniAuth strategy for authenticating to Connexio. To use it, you'll need to create an OAuth Client Application on Connexio's [Applications Page](login.connexiolabs.com/clients/new).
-
-TODO: Write a gem description
 
 ## Installation
 
