@@ -23,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-In a Rails app, add the Tumblr provider to your Omniauth middleware, e.g. in a file like @config/initializers/omniauth.rb@:
+In a Rails app, add the Connexio provider to your Omniauth middleware, e.g. in a file like `config/initializers/omniauth.rb`:
 
 ```ruby
 Rails.application.config.middleware.use OmniAuth::Builder do
@@ -31,7 +31,7 @@ Rails.application.config.middleware.use OmniAuth::Builder do
 end
 ```
 
-In any Rack app you can add the Tumblr strategy like so:
+In any Rack app you can add the Connexio strategy like so:
 
 ```ruby
 use OmniAuth::Builder do
